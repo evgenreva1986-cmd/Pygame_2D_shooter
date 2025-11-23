@@ -7,7 +7,7 @@ This project is a 2D shooter game developed using **Python** and the **Pygame** 
 The game demonstrates several key software development and algorithmic concepts essential for game logic:
 
 1.  **Object-Oriented Architecture (OOP):**
-    - Utilized separate, dedicated classes (`Player`, `Enemy`, `Projectile`, `Bullet`,`Settings`) to ensure the code is **modular**, scalable, and easy to maintain.
+    - Utilized separate, dedicated classes (`Player`, `Enemy`, `Bullet`,`Settings`) to ensure the code is **modular**, scalable, and easy to maintain.
     - Inheritance and encapsulation are used to manage entity properties (health, speed) and behavior effectively.
 
 2.  **Enemy AI & Movement:**
@@ -42,9 +42,7 @@ To successfully launch and run the game, please follow these steps:
     ```bash
     python sky_problem_game.py 
     ```
-    
 
-## Screenshots (Optional but Recommended)
 
 ## Screenshots
 
